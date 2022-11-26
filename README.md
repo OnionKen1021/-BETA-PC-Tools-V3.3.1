@@ -26,6 +26,10 @@
  🎁 共同製作人: <br /> 
  E 這裡是空的 QAQ <br /> 
  卡點~~勞工~~ 阿～～～
+ 
+ 🎁 安裝方式: <br /> 
+ 請至以下連結尋找Download按鈕 備註:此軟體並未攜帶病毒 Windows 誤判皆為正常現象
+ https://github.com/OnionKen1021/-BETA-PC-Tools-V3.3.1/blob/main/PC%20Tools%20Installer%20V2.2.1.msi
 
  
  
